@@ -8,4 +8,4 @@ register and discover other services of the project.
 * Maven
 
 # Credentials & License
-Look [main project](https://github.com/users/KhanIvan/projects/1) desciprtion.
+Look [main project](https://github.com/users/KhanIvan/projects/1) description.
